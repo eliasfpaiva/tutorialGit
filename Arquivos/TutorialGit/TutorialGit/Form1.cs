@@ -20,8 +20,8 @@ namespace TutorialGit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
-            form.Show();
+            Form2 form1 = new Form2();
+            form1.Show();
 
 
 
