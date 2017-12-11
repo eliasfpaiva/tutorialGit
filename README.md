@@ -1,0 +1,1 @@
+# Tutorial Git\n\n\n Este é um projeto para dicas de iniciação prática ao Git e GitHub.\nO Foco são alunos que não conhecem a ferramenta com intenção de dar o básico necessário ao primeiro contato com o Git e com o GitHub
