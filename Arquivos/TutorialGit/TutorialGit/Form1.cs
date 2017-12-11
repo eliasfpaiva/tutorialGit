@@ -20,8 +20,11 @@ namespace TutorialGit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 form = new Form2();
-            form.Show();
+            int a = 1;
+            int b = 2;
+            int c = a * b;
+
+            MessageBox.Show(a.ToString());
         }
     }
 }
