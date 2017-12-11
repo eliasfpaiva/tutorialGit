@@ -20,11 +20,11 @@ namespace TutorialGit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int a = 1;
-            int b = 2;
-            int c = a * b;
+            int    a = 1;
+            int    b = 2;
+            double c = a / b;
 
-            MessageBox.Show(a.ToString());
+            MessageBox.Show(c.ToString());
         }
     }
 }
