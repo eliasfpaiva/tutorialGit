@@ -8,3 +8,4 @@ C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\obj\
 C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\obj\Debug\TutorialGit.csproj.CoreCompileInputs.cache
 C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\obj\Debug\TutorialGit.exe
 C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\obj\Debug\TutorialGit.pdb
+C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\obj\Debug\TutorialGit.Form2.resources
