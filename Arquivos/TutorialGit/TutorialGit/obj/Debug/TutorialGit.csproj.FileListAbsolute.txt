@@ -1,0 +1,10 @@
+C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\bin\Debug\TutorialGit.exe.config
+C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\bin\Debug\TutorialGit.exe
+C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\bin\Debug\TutorialGit.pdb
+C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\obj\Debug\TutorialGit.csprojResolveAssemblyReference.cache
+C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\obj\Debug\TutorialGit.Form1.resources
+C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\obj\Debug\TutorialGit.Properties.Resources.resources
+C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\obj\Debug\TutorialGit.csproj.GenerateResource.Cache
+C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\obj\Debug\TutorialGit.csproj.CoreCompileInputs.cache
+C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\obj\Debug\TutorialGit.exe
+C:\Users\Familia Paiva\Desktop\tutorialGit\Arquivos\TutorialGit\TutorialGit\obj\Debug\TutorialGit.pdb
